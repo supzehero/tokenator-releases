@@ -1,5 +1,5 @@
 {
-  "version": "0.4.1",
-  "url": "https://github.com/supzehero/tokenator-releases/releases/download/v0.4.1/Tokenator-0.4.1.dmg",
-  "notes": "Ключ сесії claude.ai в агентах; terminal за замовчуванням напевно · claude.ai session key in agents"
+  "version": "0.5.0",
+  "url": "https://github.com/supzehero/tokenator-releases/releases/download/v0.5.0/Tokenator-0.5.0.dmg",
+  "notes": "Увійти через Claude і ChatGPT, ліміти з усіх пристроїв, вертикальні смужки, скрол · Sign in with Claude and ChatGPT, limits from every device, vertical bars, scrolling"
 }
